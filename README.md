@@ -10,6 +10,8 @@
 </p>
 
 ---
+![snake gif](https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### 💻 Tech Stack
 
