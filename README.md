@@ -20,7 +20,7 @@
 
 - 🔭 Currently building: hands-on labs and writeups documenting my learning process
 - 🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
-- 💬 Ask me about: Bash scripting, Linux, GitHub workflows
+  
 
 ---
 
