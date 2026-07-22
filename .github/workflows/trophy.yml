@@ -1,5 +1,4 @@
 name: Generate Trophy
-
 on:
   schedule:
     - cron: "0 0 * * *"  # runs daily at midnight
@@ -7,10 +6,8 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -21,12 +18,11 @@ jobs:
           username: Gouthamjoshi01
           output_path: trophy.svg
           theme: radical
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.TROPHY_TOKEN }}
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: .
         env:
-          GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
