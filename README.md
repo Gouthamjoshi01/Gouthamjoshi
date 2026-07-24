@@ -23,15 +23,17 @@
 
 <br>
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
-</div>
-
-- 🔭 Currently building: hands-on labs and writeups documenting my learning process
-- 🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
-- 💬 Ask me about: Bash scripting, Linux, GitHub workflows
-
+🔭 Currently building: hands-on labs and writeups documenting my learning process
 <br>
+🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
+<br>
+💬 Ask me about: Bash scripting, Linux, GitHub workflows
+
+</div>
 
 <div align="center">
 
