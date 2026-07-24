@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/goutham-joshi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/gouthamjoshi">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
+  <a href="https://app.hackthebox.com/profile/Gouthamjoshi">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
