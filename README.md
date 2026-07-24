@@ -58,11 +58,6 @@
 
 <br><br>
 
-## 🏙️ 3D Contribution Calendar
-
-<img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/main/profile-3d-contrib/profile-night-green.svg" />
-
-<br><br>
 
 ## 🛠️ Tech Stack
 
